@@ -1,3 +1,10 @@
+# Balthazar keyboard firmware
+
+Modification of [QMK firmware](https://docs.qmk.fm/#/) for the [Balthazar personal computing device](https://balthazar.space/wiki/Balthazar).
+
+We have based our keyboard development following the Open Sourced [Parameterized ergonomic keyboard](https://github.com/adereth/dactyl-keyboard) done by Matt Adereth
+and modified for our developement by Balthazar team. [Here](https://github.com/g1smo/balthazar_dactyl) you can find our detailed documentation on a current modification.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
